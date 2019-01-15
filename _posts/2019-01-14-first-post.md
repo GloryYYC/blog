@@ -9,4 +9,4 @@ description: This is the very first blog post.
 
 Happy new year as we go into 2019 and this is the very first blog post.
 
-As I grow older, I trust New year's resolution less and less, instead I belive in building a system, much like in cycling, I dont belive in sprint, instead I belive in climbing and time trialing for sprint is never substainable, especially as long as a ![Hong Konger's life](https://edition.cnn.com/2018/03/02/health/hong-kong-world-longest-life-expectancy-longevity-intl/index.html).
+As I grow older, I trust New year's resolution less and less, instead I belive in building a system, much like in cycling, I dont belive in sprint, instead I belive in climbing and time trialing for sprint is never substainable, especially as long as a [Hong Konger's life](https://edition.cnn.com/2018/03/02/health/hong-kong-world-longest-life-expectancy-longevity-intl/index.html).

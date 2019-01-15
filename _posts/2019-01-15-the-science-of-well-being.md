@@ -23,3 +23,18 @@ description: Little bit happier in a miswanted digital world.
 ### Action we can take:
 
 1. Set strategies to getting over getting used to stuff, e.g. don't invest in stuff in the first place, for material life is the easiest to get used to. Instead, invest in experience, e.g. vication, art gallery, concert, especially those that can be share and benifit others. (Hence altruism)
+
+### Action thwart hedonic adaptation:
+
+1. Savoring
+2. Nagative visualization
+3. Make this day your last
+4. Gratitude
+
+### Action to reset your reference point:
+
+1. Concretly re-experience
+2. concretly observe
+3. Avoid scial comparisions
+4. Interupt your consumpsion
+5. Increase your variety

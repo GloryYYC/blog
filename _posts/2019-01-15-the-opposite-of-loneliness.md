@@ -12,3 +12,4 @@ description: The opposite of loneliness was written by Marina Keegan ’12 for a
 >It’s not quite love and it’s not quite community; it’s just this feeling that there are people, an abundance of people, who are in this together.
 
 The opposite of loneliness.Keegan died in a car accident, she was 22.
+Social acceptance and self

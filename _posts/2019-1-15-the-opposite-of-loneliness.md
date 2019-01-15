@@ -1,6 +1,6 @@
 ---
 layout: post
-category: casual 
+category: jekyll 
 title: The opposite of loneliness
 ---
 

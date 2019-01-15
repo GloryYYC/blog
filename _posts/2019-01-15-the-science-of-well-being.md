@@ -7,6 +7,7 @@ description: Little bit happier in a miswanted digital world.
 
 ![happiness](https://images.unsplash.com/photo-1459369510627-9efbee1e6051)
 
+The following points are notes from the popular course "The science of well being" provided by Yale university.
 ### Annoying Feature
 
 1. Our minds' strongest intuition are often totally wrong

@@ -5,6 +5,8 @@ category: Lesson
 description: Little bit happier in a miswanted digital world.
 ---
 
+![happiness](https://images.unsplash.com/photo-1459369510627-9efbee1e6051)
+
 ### Annoying Feature
 
 1. Our minds' strongest intuition are often totally wrong

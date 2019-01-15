@@ -1,6 +1,6 @@
 ---
 layout: post
-category: jekyll 
+category: Interesting-article 
 title: The opposite of loneliness
 description: The opposite of loneliness was written by Marina Keegan ’12 for a special edition of the News distributed at the class of 2012’s commencement. 
 ---

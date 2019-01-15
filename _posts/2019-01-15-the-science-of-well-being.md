@@ -17,3 +17,7 @@ description: Little bit happier in a miswanted digital world.
 
 1. Focalism: just think the event individually
 2. Psychological immure system: bad events hurts, but it doesn't acturally hurt that much that long, you will get over it with friends and family.
+
+### Action we can take:
+
+1. Set strategies to getting over getting used to stuff, e.g. don't invest in stuff in the first place, for material life is the easiest to get used to. Instead, invest in experience, e.g. vication, art gallery, concert, especially those that can be share and benifit others. (Hence altruism)

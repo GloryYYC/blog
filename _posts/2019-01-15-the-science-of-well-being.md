@@ -28,7 +28,23 @@ The following points are notes from the popular course "The science of well bein
 ### Action thwart hedonic adaptation:
 
 1. Savoring
+	Things that enhance savoring
+	- experience vs material: experience can be share and furder enhance savoring
+	- Feeling pround of yourself
+	- Feeling lucky
+	- Laugh
+	- Better relationship
+	- Thought only on the present (No in the default network)
+	Things that hurt savoring
+	- Focus on the future
+	- Reminding yourself it would be over soon
+	- Tell yourself it  wasn't as good as it hoped
+	- Feel it will never be this good again
+	- how it could be better
+	- didn't deserve this good thing
+	(Come to think about it: INTJ is really bad at this.)
 2. Nagative visualization
+	- It can be a lot wrost
 3. Make this day your last
 4. Gratitude
 
@@ -39,3 +55,16 @@ The following points are notes from the popular course "The science of well bein
 3. Avoid scial comparisions
 4. Interupt your consumpsion
 5. Increase your variety
+
+### Strategies for better habits:
+
+Knowing isn't half the battle, so action is all that matters.
+
+1. Find sitruation support
+   - As will power is always overated, success by design is much more important
+   - Change the visibility of things that we do want to do
+   - promote health situation support (i.e. friends and family)
+
+2. Goal setting
+	- Goal specificity: be quantitative when setting goal
+	- Goal visulization: mental contrasting good and bad outcome

@@ -5,7 +5,7 @@ category: Lesson
 # description: Little bit happier in a miswanting digital world.
 ---
 
-![digitial capitalism](https://images.unsplash.com/photo-1501141178950)
+![digitial capitalism](https://unsplash.com/photos/oTjFWTHDRZQ)
 
 block chain
 decentralize

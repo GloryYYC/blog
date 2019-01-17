@@ -10,7 +10,7 @@ description: Little bit happier in a miswanted digital world.
 The following points are notes from the popular course "The science of well being" provided by Yale university.
 ### Annoying Feature
 
-1. Our minds' strongest intuition are often totally wrong
+1. Our minds' strongest intuition are often totally wrong (Stop thinking our feeling must be right, people operate this way are under others indulgence)
 2. Our minds don't think in terms of absolute
 3. Our minds are built to get used to stuff
 4. We don't relize that our minds are built to get used to stuff e.g. shopaholic

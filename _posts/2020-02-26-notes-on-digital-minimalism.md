@@ -1,5 +1,5 @@
 ---
-  layout: post
+layout: post
 title:  Notes on digital minimalism
 category: Reading
 ---

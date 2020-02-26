@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Notes on I Don't Want to Talk About It
+title:  Notes on I Dont Want to Talk About It
 category: Reading
 ---
 

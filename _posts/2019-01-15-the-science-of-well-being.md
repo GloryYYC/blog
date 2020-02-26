@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Notes on the science of well being
-category: Lesson 
+category: MOOC 
 description: Little bit happier in a miswanted digital world.
 ---
 

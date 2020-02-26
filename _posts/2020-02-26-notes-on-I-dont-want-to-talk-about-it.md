@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Notes on "I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression"
+title:  Notes on I Don't Want to Talk About It
 category: Reading
 ---
 

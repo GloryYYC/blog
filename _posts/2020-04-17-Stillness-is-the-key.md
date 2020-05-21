@@ -3,9 +3,6 @@ layout: post
 title:  Notes on Stillness is the key (part 1)
 category: Reading
 ---
-  
-
-# Stillness is the key
 
 ## Limit your inputs
 

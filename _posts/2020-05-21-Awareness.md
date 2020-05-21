@@ -4,7 +4,7 @@ title:  Awareness by Anthony de mello
 category: Reading
 ---
   
-  > Eagle lived and died a chicken, for that's what he thought here was → wake up people up to the reality of their greatness
+> Eagle lived and died a chicken, for that's what he thought here was → wake up people up to the reality of their greatness
 
 ## Waking up
 > Presentness

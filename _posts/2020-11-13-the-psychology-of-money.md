@@ -4,4 +4,4 @@ title:  The psychology of money
 category: Reading
 ---
 
-A contributor of Monte fool.
+From a contributor of Monte fool.

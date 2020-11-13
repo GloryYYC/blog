@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  The psychology of money
+title:  How to decide
 category: Reading
 ---
+
+From the author of Thinking in bets.
 

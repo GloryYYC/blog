@@ -4,7 +4,7 @@ title:  The psychology of money
 category: Reading
 ---
 
-![The psychology of money](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thinkadvisor.com%2F2020%2F09%2F04%2Fmorgan-housel-how-to-stay-rich%2F&psig=AOvVaw1-nP1yc1e3DmfHLxG9d0Rd&ust=1605586928602000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC4xcebhu0CFQAAAAAdAAAAABAg)
+![The psychology of money](https://images.unsplash.com/photo-1592496431122-2349e0fbc666?ixlib=rb-1.2.1&auto=format&fit=crop&w=1386&q=80)
 
 Morgan Housel is a partner at The Collaborative Fund and a former columnist at The Motley Fool and The Wall Street Journal.
 

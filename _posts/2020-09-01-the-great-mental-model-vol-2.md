@@ -3,7 +3,8 @@ layout: post
 title:  The Great mental model, Volume 2
 category: Reading
 ---
-  
+
+
 # Physics
 
 ## Relativity

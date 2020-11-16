@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Notes on Stillness is the key (part 1)
+title:  Stillness is the key (part 1)
 category: Reading
 ---
 
+![Meditation by Marcus Aurelius](https://specials-images.forbesimg.com/imageserve/5d922dbc25598d0006682980/960x0.jpg?fit=scale)
 ## Limit your inputs
 
 - A wealth of information creates a poverty of attention

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Letters from seneca
+title:  Letters from Seneca
 category: Reading
 ---
+![Letters from Seneca](https://s.wsj.net/public/resources/images/B3-AF405_bkrvse_M_20180426151532.jpg)
   
 ### Letter II
 

@@ -3,7 +3,8 @@ layout: post
 title:  Awareness by Anthony de mello
 category: Reading
 ---
-  
+
+![Awareness by Anthony de mello](https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/1441780/cover-tKqD1DClJkBf5y28A018y1erTiEYbdkj.jpeg)
 > Eagle lived and died a chicken, for that's what he thought here was → wake up people up to the reality of their greatness
 
 ## Waking up

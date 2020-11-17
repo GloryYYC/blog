@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Stillness is the key (part 1)
+title:  Stillness is the key
 category: Reading
 ---
 

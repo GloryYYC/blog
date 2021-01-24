@@ -3,7 +3,7 @@ layout: post
 title:  How I invest my money
 category: Reading
 ---
-
+![How I invest my money](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1596430297i%2F54706605._UY630_SR1200%2C630_.jpg&f=1&nofb=1)
 ## 1. Morgan Housel
 
 His investing strategy doesn't rely on picking the right sector, or timing the next recession. It relies on a high savings rate (Building from a young age), patience and optimism that the global economy will create value over the next several decades. I spend virtually all of my investing effort thinking about those three things - especially the first two which I can control.

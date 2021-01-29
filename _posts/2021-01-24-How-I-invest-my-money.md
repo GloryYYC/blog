@@ -32,6 +32,10 @@ Their goal was: a) living a day-to-day life of convenience with as little aggrav
 
 ## 5. Bob Seawright
 
+-   Our decision-making systems default toward immediate, tangible rewards, which means we are prone to short-change or ignore investments in intangible, longer-term initiatives. It's easy to lose sight of our purposes when life happens to us.
+
+-   There is frequently a gaping hole between the life people say they want and the life they live, and the gap is routinely self-inflicted. Its often because your priorities are misplaced. You don't have your purpose in order.
+
 ## 6. Carolyn McClanahan
 
 -   The joy of reading early regardless genre
@@ -48,8 +52,6 @@ Their goal was: a) living a day-to-day life of convenience with as little aggrav
 
 -   Crptoassets and the equity of private companies
 -   Wealth building power of ownership
-
-## 8. Dasarte Yarnway
 
 ## 9. Shirl Penney
 
@@ -71,3 +73,5 @@ Their goal was: a) living a day-to-day life of convenience with as little aggrav
 ## 10. Ted Seides
 
 -   First principles and good investment habit before developed bad ones
+
+## 11. Ashby Daniels

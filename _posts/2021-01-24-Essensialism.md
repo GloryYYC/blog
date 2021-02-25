@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Essentialism
+title:  How I invest my money
 category: Reading
 ---
 
-![Essentialism](https://external-content.duckduckgo.com/iu/?u=https%253A%252F%252Fi.gr-assets.com%252Fimages%252FS%252Fcompressed.photo.goodreads.com%252Fbooks%252F1596430297i%252F54706605._UY630_SR1200%252C630_.jpg&f=1&nofb=1)
+![How I invest my money](https://external-content.duckduckgo.com/iu/?u=https%253A%252F%252Fi.gr-assets.com%252Fimages%252FS%252Fcompressed.photo.goodreads.com%252Fbooks%252F1596430297i%252F54706605._UY630_SR1200%252C630_.jpg&f=1&nofb=1)
 ## 1. Morgan Housel
 
 His investing strategy doesn't rely on picking the right sector, or timing the next recession. It relies on a high savings rate (Building from a young age), patience and optimism that the global economy will create value over the next several decades. I spend virtually all of my investing effort thinking about those three things - especially the first two which I can control.
